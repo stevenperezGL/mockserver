@@ -1,9 +1,9 @@
-const express = require('express');
-const router = express.Router({
+var express = require('express');
+var router = express.Router({
 	mergeParams: true,
 });
 
-const demoRoutes = require('../routes/demo-routes');
+var demoRoutes = require('../routes/demo-routes');
 
 router.get('/users', demoRoutes.getUsers);
 router.get('/user/:id', demoRoutes.getUser);

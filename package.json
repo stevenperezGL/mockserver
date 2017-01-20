@@ -4,6 +4,7 @@
   "description": "This is a mock server repo",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "dev": "./node_modules/.bin/nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,10 +24,10 @@
     "ejs-locals": "^1.0.2",
     "express": "^4.14.0",
     "lodash": "^4.17.4",
-    "method-override": "^2.3.7"
+    "method-override": "^2.3.7",
+    "morgan": "^1.7.0"
   },
   "devDependencies": {
-    "morgan": "^1.7.0",
     "nodemon": "^1.11.0"
   }
 }
