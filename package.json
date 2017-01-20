@@ -20,12 +20,15 @@
   "homepage": "https://github.com/stevenperezGL/mockserver#readme",
   "dependencies": {
     "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
     "ejs": "^2.5.5",
     "ejs-locals": "^1.0.2",
     "express": "^4.14.0",
     "lodash": "^4.17.4",
+    "lowdb": "^0.14.0",
     "method-override": "^2.3.7",
-    "morgan": "^1.7.0"
+    "morgan": "^1.7.0",
+    "uuid": "^3.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"

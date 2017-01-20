@@ -17,5 +17,4 @@ module.exports = {
 		var value = parseInt(req.params.value) || 0;
 		res.send({name: 'The result is: ' + value});
 	},
-	
 };
