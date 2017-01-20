@@ -13,4 +13,8 @@ module.exports = {
 	getYolo (req, res) {
 		res.send({name: 'Yolo'});
 	},
+	getResult (req, res) {
+		var value = parseInt(req.params.value) || 0;
+		res.send({name: 'The result is: ' + value});
+	},
 };
