@@ -10,4 +10,7 @@ module.exports = {
 		var user = _.filter(dbUsers, {id});
 		res.send(user);
 	},
+	getYolo (req, res) {
+		res.send({name: 'Yolo'});
+	},
 };
