@@ -11,6 +11,6 @@ module.exports = {
 		res.send(user);
 	},
 	getYolo (req, res) {
-		res.send({name: 'Yolo'});
+		res.send({name: 'Yolo 2'});
 	},
 };
