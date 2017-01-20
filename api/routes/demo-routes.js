@@ -13,4 +13,5 @@ module.exports = {
 	getYolo (req, res) {
 		res.send({name: 'Yolo'});
 	},
+
 };
