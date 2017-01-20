@@ -1,0 +1,6 @@
+.tmp/**
+.idea/**
+node_modules/**
+babel_components/**
+build/**
+coverage/**
