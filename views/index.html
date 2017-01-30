@@ -63,6 +63,34 @@ https://mock-server-one.herokuapp.com/api/user/2
 		<div class="col-xs-4"></div>
 	</div>
 
+	<!--GET TEMPLATE REMINDERS LIST-->
+	<div class="row">
+		<div class="col-xs-4"></div>
+		<div class="col-xs-4">
+<pre class="prettyprint linenums language-yaml">
+// Get Template List
+http://localhost:9000/api/ReminderTemplates?&Keyword=4&Offset=5&Limit=15
+// Heroku endpoint
+https://mock-server-one.herokuapp.com/api/ReminderTemplates?&Keyword=4&Offset=5&Limit=15
+</pre>
+		</div>
+		<div class="col-xs-4"></div>
+	</div>
+
+	<!--GET SINGLE TEMPLATE REMINDERS -->
+	<div class="row">
+		<div class="col-xs-4"></div>
+		<div class="col-xs-4">
+<pre class="prettyprint linenums language-yaml">
+// Get Single Template Reminder
+http://localhost:9000/api/ReminderTemplates/2
+// Heroku endpoint
+https://mock-server-one.herokuapp.com/api/ReminderTemplates/2
+</pre>
+		</div>
+		<div class="col-xs-4"></div>
+	</div>
+
 	<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
 </body>
 </html>

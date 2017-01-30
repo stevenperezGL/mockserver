@@ -63,4 +63,21 @@ module.exports = {
 			},
 		});
 	},
+	getTemplate(req, res) {
+		var id = _.toInteger(req.params.id);
+		var templates = dbTemplates.value();
+
+		var template = _.chain(templates)
+			.filter({ TemplateId: id })
+			.first()
+			.value();
+
+		template = template || {};
+
+		res.send({
+			Status: 1,
+			Code: 2,
+			Data: template,
+		});
+	},
 };
