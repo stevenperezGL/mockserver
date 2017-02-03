@@ -1,482 +1,58 @@
 [
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 1",
     "TemplateId": 1,
-    "Description": "Template 1",
-    "Type": {
-      "ReminderTypeId": 1,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-20T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-20T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "d1a27bc8-77fc-43a3-a1ca-026916462a6c"
+    "Description": "Description 1",
+    "ReminderTypeId": 1,
+    "FrequencyId": 1
   },
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 2",
     "TemplateId": 2,
-    "Description": "Template 2",
-    "Type": {
-      "ReminderTypeId": 3,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-21T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-21T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-21T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-21T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-21T17:26:09.3574563Z",
-    "mockId": "82337ad4-4aba-497c-9863-2153c3ecd74e"
+    "Description": "Description 2",
+    "ReminderTypeId": 2,
+    "FrequencyId": 2
   },
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 3",
     "TemplateId": 3,
-    "Description": "Template 3",
-    "Type": {
-      "ReminderTypeId": 4,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
+    "Description": "Description 3",
+    "ReminderTypeId": 3,
+    "FrequencyId": 3
   },
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 4",
     "TemplateId": 4,
-    "Description": "Template 4",
-    "Type": {
-      "ReminderTypeId": 4,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-21T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-21T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-21T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-21T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-21T17:26:09.3574563Z",
-    "mockId": "a7c013df-76e4-4244-887d-25a64b76f0fd"
+    "Description": "Description 4",
+    "ReminderTypeId": 4,
+    "FrequencyId": 4
   },
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 5",
     "TemplateId": 5,
-    "Description": "Template 5",
-    "Type": {
-      "ReminderTypeId": 2,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
+    "Description": "Description 5",
+    "ReminderTypeId": 5,
+    "FrequencyId": 1
   },
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 6",
     "TemplateId": 6,
-    "Description": "Template 6",
-    "Type": {
-      "ReminderTypeId": 1,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
+    "Description": "Description 6",
+    "ReminderTypeId": 2,
+    "FrequencyId": 1
   },
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 7",
     "TemplateId": 7,
-    "Description": "Template 7",
-    "Type": {
-      "ReminderTypeId": 2,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
+    "Description": "Description 7",
+    "ReminderTypeId": 2,
+    "FrequencyId": 1
   },
   {
-    "Name": 1,
+    "TemplateName": "Reminder Template 8",
     "TemplateId": 8,
-    "Description": "Template 8",
-    "Type": {
-      "ReminderTypeId": 4,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
-  },
-  {
-    "Name": 1,
-    "TemplateId": 9,
-    "Description": "Template 9",
-    "Type": {
-      "ReminderTypeId": 2,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
-  },
-  {
-    "Name": 1,
-    "TemplateId": 10,
-    "Description": "Template 10",
-    "Type": {
-      "ReminderTypeId": 4,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
-  },
-  {
-    "Name": 1,
-    "TemplateId": 11,
-    "Description": "Template 11",
-    "Type": {
-      "ReminderTypeId": 1,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
-  },
-  {
-    "Name": 1,
-    "TemplateId": 12,
-    "Description": "Template 12",
-    "Type": {
-      "ReminderTypeId": 3,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
-  },
-  {
-    "Name": 1,
-    "TemplateId": 13,
-    "Description": "Template 13",
-    "Type": {
-      "ReminderTypeId": 2,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
-  },
-  {
-    "Name": 1,
-    "TemplateId": 14,
-    "Description": "Template 14",
-    "Type": {
-      "ReminderTypeId": 6,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
-  },
-  {
-    "Name": 1,
-    "TemplateId": 15,
-    "Description": "Template 15",
-    "Type": {
-      "ReminderTypeId": 3,
-      "Name": "sample string 2"
-    },
-    "Frequency": {
-      "ReminderFrequencyId": 1,
-      "Name": "sample string 2",
-      "CreatedDate": "2017-01-22T17:26:09.3574563Z",
-      "UpdatedDate": "2017-01-22T17:26:09.3574563Z"
-    },
-    "AlertTimes": "sample string 4",
-    "Weekdays": "sample string 5",
-    "MonthlyDeliveryDay": 1,
-    "ReminderResource": {
-      "ResourceId": 1,
-      "Name": "sample string 2",
-      "Description": "sample string 3",
-      "MIMEType": "sample string 4",
-      "FileSize": 1,
-      "CategoryId": 5,
-      "URL": "sample string 6",
-      "IsCustomResource": true
-    },
-    "CreatedOn": "2017-01-23T17:26:09.3574563Z",
-    "UpdatedOn": "2017-01-23T17:26:09.3574563Z",
-    "DeletedOn": "2017-01-23T17:26:09.3574563Z",
-    "mockId": "5b60d999-869a-40bd-9cc9-9b93b70ba908"
+    "Description": "Description 8",
+    "ReminderTypeId": 1,
+    "FrequencyId": 1
   }
 ]
