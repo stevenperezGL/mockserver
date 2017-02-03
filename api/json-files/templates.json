@@ -17,7 +17,7 @@
     "TemplateName": "Reminder Template 3",
     "TemplateId": 3,
     "Description": "Description 3",
-    "ReminderTypeId": 3,
+    "ReminderTypeId": 4,
     "FrequencyId": 3
   },
   {
@@ -31,7 +31,7 @@
     "TemplateName": "Reminder Template 5",
     "TemplateId": 5,
     "Description": "Description 5",
-    "ReminderTypeId": 5,
+    "ReminderTypeId": 6,
     "FrequencyId": 5
   },
   {
