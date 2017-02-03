@@ -4,7 +4,7 @@
     "TemplateId": 1,
     "Description": "Description 1",
     "ReminderTypeId": 1,
-    "FrequencyId": 1
+    "FrequencyId": null
   },
   {
     "TemplateName": "Reminder Template 2",
@@ -25,7 +25,7 @@
     "TemplateId": 4,
     "Description": "Description 4",
     "ReminderTypeId": 4,
-    "FrequencyId": 4
+    "FrequencyId": null
   },
   {
     "TemplateName": "Reminder Template 5",
